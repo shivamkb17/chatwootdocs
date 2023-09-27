@@ -66,6 +66,7 @@ Before you can start using your Facebook app in production, you will have to get
 Obtain advanced access to the required permissions mentioned below for your Facebook app
 ```
 pages_messaging
+business_management
 Business Asset User Profile Access
 pages_show_list
 pages_manage_metadata
